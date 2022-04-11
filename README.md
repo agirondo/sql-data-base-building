@@ -5,6 +5,7 @@
 - Building database from MySQL workbench
 - Editing dataframes so they fit the database structure
 - Loading data into database
+- Writing queries
 
 # Database structure
 
